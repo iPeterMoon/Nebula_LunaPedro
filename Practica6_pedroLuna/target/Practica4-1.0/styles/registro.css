@@ -1,0 +1,11 @@
+@import url('./global.css');
+
+header img {
+    height: 40vh;
+}
+
+h1{
+    position:relative;
+    top: 0;
+}
+
