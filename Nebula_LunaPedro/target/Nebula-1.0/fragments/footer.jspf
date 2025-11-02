@@ -1,0 +1,12 @@
+<footer>
+    <div>
+        Siguenos en nuestras redes
+        <div>
+            <a href="www.instagram.com" target="_blank">Instagram</a>
+            <a href="www.facebook.com" target="_blank">Facebook</a>
+            <a href="www.tiktok.com" target="_blank">TikTok</a>
+        </div>
+    </div>
+    <p>Copyright Nebula</p>
+    <a href="/tyc.jsp" target="_blank">Términos y condiciones</a>
+</footer>

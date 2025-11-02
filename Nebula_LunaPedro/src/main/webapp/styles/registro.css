@@ -1,15 +1,5 @@
 @import url('./global.css');
 
-header img {
-    height: 40vh;
-}
-
-header h1 {
-    position: absolute;
-    top: 40%;
-    left: 20%
-}
-
 .formulario {
     background-color: var(--form-bg-color);
     padding: 10px;

@@ -1,0 +1,10 @@
+header h1 {
+    width: 60%;
+    left: 50px;
+    top: 40%;
+    transform: none;
+}
+
+header img {
+    height: 60vh;
+}

@@ -1,14 +1,4 @@
-@import url('./global.css');
-
-header img {
-    height: 40vh;
-}
-
-header h1 {
-    position: absolute;
-    top: 40%;
-    left: 20%
-}
+@import url("./global.css");
 
 section h3 {
     margin: 20px 0 10px 0;
@@ -20,12 +10,12 @@ table {
     margin: auto;
     background-color: var(--form-bg-color);
     border-radius: 10px;
-
 }
-table th, table td {
+table th,
+table td {
     padding: 10px;
     text-align: center;
-    border : 2 px solid var(--form-bg-color);
+    border: 2 px solid var(--form-bg-color);
 }
 
 table th {
@@ -38,5 +28,5 @@ table td span {
 }
 
 table tr:nth-child(even) {
-    background-color: #327CAD;
+    background-color: #327cad;
 }
