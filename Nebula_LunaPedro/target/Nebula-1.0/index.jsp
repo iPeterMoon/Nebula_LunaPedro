@@ -74,6 +74,65 @@
                         <strong>Bonjour Señor</strong>.
                     </p>
                 </article>
+                <article>
+                    <img
+                        src="https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png"
+                        alt="Carátula del álbum Discovery"
+                        width="250px"
+                    />
+                    <h3>El álbum que definió una era: Discovery</h3>
+                    <p>
+                        **Discovery** es el segundo álbum de estudio del dúo
+                        francés de música *house* Daft Punk, lanzado el 12 de
+                        marzo de 2001. Marcó un notable cambio de su sonido
+                        original de *French house* hacia un estilo más inspirado
+                        en la música **disco**, el *post-disco* y el *synthpop*.
+                        El álbum incluye éxitos mundiales como **"One More
+                        Time"**, **"Aerodynamic"** y **"Harder, Better, Faster,
+                        Stronger"**. Además, sirvió como banda sonora para la
+                        película de anime *Interstella 5555: The 5tory of the
+                        5ecret 5tar 5ystem*.
+                    </p>
+                </article>
+                <article>
+                    <img
+                        src="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Daft_Punk_-_Random_Access_Memories.png/250px-Daft_Punk_-_Random_Access_Memories.png"
+                        alt="Carátula del álbum Random Access Memories"
+                        width="250px"
+                    />
+                    <h3>El regreso orquestado: Random Access Memories</h3>
+                    <p>
+                        **Random Access Memories** es el cuarto y último álbum
+                        de estudio de Daft Punk, lanzado el 17 de mayo de 2013.
+                        Este disco se distingue por rendir homenaje a la música
+                        popular estadounidense de finales de los 70 y principios
+                        de los 80, con un énfasis en el sonido disco y funk. El
+                        dúo trabajó con instrumentación en vivo y contó con
+                        importantes colaboradores como **Nile Rodgers**,
+                        **Giorgio Moroder** y **Pharrell Williams**. Incluye el
+                        éxito mundial **"Get Lucky"** y ganó varios Premios
+                        Grammy, incluido Álbum del Año.
+                    </p>
+                </article>
+                <article>
+                    <img
+                        src="https://m.media-amazon.com/images/I/81DSfiba5fL._UF1000,1000_QL80_.jpg"
+                        alt="Carátula del álbum Homework"
+                        width="250px"
+                    />
+                    <h3>El nacimiento del French House: Homework</h3>
+                    <p>
+                        **Homework** es el álbum de estudio debut de Daft Punk,
+                        lanzado el 20 de enero de 1997. El título, un juego de
+                        palabras, hace referencia a que fue grabado en su
+                        estudio casero en París. Es considerado un trabajo
+                        fundamental en el desarrollo de la escena de la música
+                        electrónica francesa. El álbum presentó el sonido
+                        característico del dúo, mezclando *house*, *techno* y
+                        *acid house*. Contiene sencillos icónicos como **"Da
+                        Funk"** y **"Around the World"**.
+                    </p>
+                </article>
             </section>
         </main>
         <%@include file="fragments/footer.jspf" %>
